@@ -1,0 +1,5 @@
+Razer Blade, Razer,$1500,220, i7 7th Gen, RTX 3060 
+Dell XPS 13, Dell,$2500,863, i5 9th Gen, GTX 3070 
+Alienware, Dell,$2000,3134, i9 13TH Gen, RTX 4090 
+Rog gaming, Asus,$1000,129, Ryzen-7 , RTX 4060 ti
+Macbook Air 16,Apple,$1500,503, M1_ Air, 16 core GPU
